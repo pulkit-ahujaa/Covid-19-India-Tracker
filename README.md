@@ -13,3 +13,5 @@ The following Libraries are used in this Script:
 <h1> OUTPUT </h1>
 
 ![Table](https://raw.githubusercontent.com/rishabh1815769/Covid-19-India-Tracker/master/output%201.bmp)
+
+![Bar Chart](https://raw.githubusercontent.com/rishabh1815769/Covid-19-India-Tracker/master/output%202%20.bmp)
