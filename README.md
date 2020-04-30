@@ -8,3 +8,8 @@ The following Libraries are used in this Script:
 2. Numpy
 3. Tabulate
 4. Matplotlib
+
+
+<h1> OUTPUT </h1>
+
+![Table](https://raw.githubusercontent.com/rishabh1815769/Covid-19-India-Tracker/master/output%201.bmp)
