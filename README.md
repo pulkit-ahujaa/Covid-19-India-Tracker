@@ -1,4 +1,4 @@
-# Covid-19-India-Tracker
+# Covid-19-India-Tracker 2020
 
 This is a simple Python script to demonstrate the state-wise corona virus cases in India. This Python 
 script fetches the live data from Ministry of Health Affairs Official Website. The data is represented in tabular format as well as horizontal bar graph.
